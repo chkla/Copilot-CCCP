@@ -1,4 +1,4 @@
-# 🤖 AI-Assisted Programming Tools Workshop @ CCCP UCologne
+# AI-Assisted Programming Tools Workshop @ CCCP UCologne
 Welcome to the AI-assisted programming workshop! You can find the slides of the workshop here [![Google Slides](https://img.shields.io/badge/Slides-yellow?logo=google-slides)](https://github.com/chkla/copilot-cccp/blob/main/AI-Assisted_Programming_for_Researchers@CCCP-2023.pdf). In this workshop, we covering a winde range of topics including generative language models, auto-completion tools (GitHub Copilot, etc.), chat-based tools (HuggingChat, etc.), and the limits and open challenges of these new types of models.
 
 ## Setup
